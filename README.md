@@ -1,5 +1,3 @@
-### Good morning Vietnam 🚁🚁🚁
-
 ## 📝 About me
 <pre>
   Kirill Golev, student. Learning computer science, playing ping-pong.
@@ -12,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirillgolev/) 
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:golev.kir@gmail.com)
 
-## Tech Stack:
+## 💻 Tech Stack:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
